@@ -215,7 +215,7 @@ a {
 }
 
 .asset-shot {
-  aspect-ratio: 16 / 10;
+  aspect-ratio: 16 / 12;
   width: 100%;
   object-fit: cover;
   display: block;
